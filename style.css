@@ -6,7 +6,7 @@ body {
 }
 
 .page-background {
-    background-image: url('images/sky.jpg');
+    background-image: url('images/sky.png');
     /* Set background image */
     background-size: cover;
     /* Cover the entire container */
